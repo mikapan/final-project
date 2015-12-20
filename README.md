@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment-4-A
 
 In this assignment, apply the enter/exit/update pattern to draw a simple visualizatio of the top five countries in Olympic medals in the years 1900, 1960, 2012.
@@ -68,4 +69,6 @@ In our particular case, your update set should do the following:
 
 Employ a transition effect to smoothly change these attributes.
 *Hint:* you only need to use `.transition()` once for the group. Transitions attached to a parent selection is also attached to a child selection.
+=======
+>>>>>>> d6498303c86a32692fc79a8ce85633c577fd9f9b
 # final-project
